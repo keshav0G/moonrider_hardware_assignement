@@ -1,0 +1,1 @@
+# moonrider_hardware_assignement
